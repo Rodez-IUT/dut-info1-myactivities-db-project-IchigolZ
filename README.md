@@ -1,10 +1,10 @@
 # DUT Info 1 > Programmation Bases de Données
 
-### NOM : DOE
-### Prénom : John
-### Groupe de TP/TD : 
-- [x] 1
-- [ ] 2
+### NOM : El Ghariaoui
+### Prénom : Zaid
+### Groupe de TP/TD :  
+- [ ] 1
+- [x] 2
 - [ ] 3
 
 ### 0. Création et initialisation du projet "myactivities-db-project"
